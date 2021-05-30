@@ -6,7 +6,7 @@
           mkdir openwrt-packages
           cd openwrt-packages
           git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git
-          git clone https://github.com/Ameykyl/luci-app-koolproxyR
+          git clone https://github.com/immortalwrt/luci-app-koolproxyR.git
           git clone https://github.com/rosywrt/luci-theme-rosy
 ```
 
